@@ -20,7 +20,7 @@ In this project, you will practice programming "hacking robots" in a video game 
 
 ### Sign up for Project
 
-Sign up for the project repository here: [https://classroom.github.com/a/YraeNce3]](https://classroom.github.com/a/YraeNce3)
+Sign up for the project repository here: [https://classroom.github.com/a/YraeNce3](https://classroom.github.com/a/YraeNce3)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
